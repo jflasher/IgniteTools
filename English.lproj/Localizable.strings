@@ -1,0 +1,10 @@
+/* 
+   en.strings
+   IgniteTools
+
+   Created by Joseph Flasher on 6/2/11.
+   Copyright 2011 Ars Sollertia All rights reserved.
+ */
+
+
+"UpdateView_CheckForUpdates" = "Checking for updates...";

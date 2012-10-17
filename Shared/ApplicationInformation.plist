@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>igniteToolsVersionURL</key>
+	<string>http://arssollertia.com/igniteTools/igniteBoulder/igniteToolsVersion.json</string>
+	<key>igniteToolsDataURL</key>
+	<string>http://arssollertia.com/igniteTools/igniteBoulder/igniteToolsData.json</string>
+	<key>connections</key>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>twitter</string>
+			<key>url</key>
+			<string>http://twitter.com/igniteboulder</string>
+			<key>name</key>
+			<string>@IgniteBoulder</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>twitter</string>
+			<key>url</key>
+			<string>http://twitter.com/#!/search/IgniteBoulder</string>
+			<key>name</key>
+			<string>#IgniteBoulder</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>facebook</string>
+			<key>url</key>
+			<string>http://www.facebook.com/igniteboulder</string>
+			<key>name</key>
+			<string>Facebook</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>flickr</string>
+			<key>url</key>
+			<string>http://www.flickr.com/search/?q=ignite+boulder</string>
+			<key>name</key>
+			<string>Flickr</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>youtube</string>
+			<key>url</key>
+			<string>http://www.youtube.com/user/igniteboulder</string>
+			<key>name</key>
+			<string>YouTube</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>website</string>
+			<key>url</key>
+			<string>http://igniteboulder.com</string>
+			<key>name</key>
+			<string>Website</string>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>arssollertia</string>
+			<key>url</key>
+			<string>http://arssollertia.com</string>
+			<key>name</key>
+			<string>Ars Sollertia</string>
+		</dict>
+	</array>
+</dict>
+</plist>

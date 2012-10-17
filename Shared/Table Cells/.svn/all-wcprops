@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/igniteTools/!svn/ver/34/trunk/Shared/Table%20Cells
+END
+EventCell_iPad.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/igniteTools/!svn/ver/38/trunk/Shared/Table%20Cells/EventCell_iPad.xib
+END
+EventCell_iPhone.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/igniteTools/!svn/ver/38/trunk/Shared/Table%20Cells/EventCell_iPhone.xib
+END
+EventCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/igniteTools/!svn/ver/36/trunk/Shared/Table%20Cells/EventCell.h
+END
+EventCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/igniteTools/!svn/ver/34/trunk/Shared/Table%20Cells/EventCell.m
+END
